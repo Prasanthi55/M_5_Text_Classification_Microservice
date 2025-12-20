@@ -1,4 +1,4 @@
-# M_5_Text_Classification_Microservice
+# Text_Classification_Microservice_Data Mining techniques
 
 FastAPI microservice for sentiment classification built for Module 5.  
 The service uses TF-IDF + Logistic Regression to classify text as positive or negative.
